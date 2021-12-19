@@ -7,4 +7,4 @@ To compile for linux you have to just change the line: var p = startProcess("cmd
 
 and change to: var p = startProcess("sh", options={poUsePath, poStdErrToStdOut, poEvalCommand, poDaemon})
 
-I also have been working on a nim service program as while a while ago and maybe will add it to this repository.
+I also have been working on a nim service program as well a while ago and maybe will add it to this repository.
